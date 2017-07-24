@@ -794,7 +794,7 @@ pre {
 }
 .cid-qqkbdQVl7n {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
 }
 .cid-qqkbdQVl7n H2 {
   text-align: center;
@@ -898,6 +898,12 @@ pre {
   .cid-qqka6F4Llb .mbr-subscribe > * {
     margin: 0 0.5rem;
   }
+}
+.cid-qqka6F4Llb B {
+  color: #232323;
+}
+.cid-qqka6F4Llb H2 {
+  color: #ffffff;
 }
 .cid-qqka9HpOdQ {
   padding-top: 60px;
